@@ -1,0 +1,11 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Conway's Game of Life",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "solyaridz3",
+  "license": "MIT"
+}
